@@ -1,0 +1,5 @@
+Day 1 - Intro
+Day 2 - Python and Unix
+Day 3 - Encrypt & Decrypt Challenge = Secret Agent Chat
+Day 4 - Camera Module = Parent Dector
+Day 5 - Laser Trip wire = A rasberry pi using Lasertrip Wire

@@ -1,0 +1,6 @@
+Day 1 = Intro to VR
+Day 2 = Intro to Unity
+Day 3 = Timer
+Day 4 = Telekenisis
+Day 5 = World Creation
+Day 6 = Gaze Based Game
